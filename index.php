@@ -80,7 +80,7 @@
   }
 
   
-  /*couting the number of words*/
+  /*counting the number of words*/
   public function count_number($date)
   {
   echo '<h1>Counting the Number of Word </h1>';
